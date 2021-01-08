@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+  background-color:#9575CD;
+}
+#p1{
+color:red;
+font-weight:bold;
+font-size:80px;
+font-variant:small-caps;
+}
+#img1{
+width:450px;
+}
